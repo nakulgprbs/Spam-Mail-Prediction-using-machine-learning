@@ -13,21 +13,7 @@ Logistic regression is a statistical method used for binary classification that 
 ## Logistic Function (Sigmoid Function)
 
 The core of logistic regression is the logistic function, also known as the sigmoid function. This function maps any real-valued number into the range [0, 1], making it suitable for predicting probabilities.
-The sigmoid function is defined as:
-𝜎
-(
-𝑧
-)
-=
-1
-1
-+
-𝑒
-−
-𝑧
-σ(z)= 
-1+e 
-−z
- 
-1
+
+![image](https://github.com/nakulgprbs/Spam-Mail-Prediction-using-machine-learning/assets/139488807/5b03d97b-b584-4e74-a69c-bf4d9b682b75)
+
 ​
